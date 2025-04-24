@@ -1,2 +1,6 @@
 # Files for Figure 3
-## Separated into 24h and 48h time points
+
+Contents
+1. 24_hour - .fcs files for 24 hour time point
+2. 48_hour - .fcs files for 48 hour time point
+3. Delivery Vehicle GFP-mRFP1 Data.xlsx - Data summarized in excel
